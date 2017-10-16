@@ -14,3 +14,5 @@ class Dog
 
 
 end
+
+fido.bark
