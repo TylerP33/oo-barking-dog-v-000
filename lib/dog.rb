@@ -9,6 +9,7 @@ class Dog
 
   def bark(name)
     bark = "woof!"
+  end 
 
 
 end
